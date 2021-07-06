@@ -13,3 +13,5 @@
     - F
   - Decrease Flaps:
     - V
+  - Brakes:
+    - Space Bar
