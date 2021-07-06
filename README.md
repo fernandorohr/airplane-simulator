@@ -1,6 +1,6 @@
 # airplane-simulator
 
-### CONTROLES
+### CONTROLS
   - Pitch:
     - W - S
   - Roll:
